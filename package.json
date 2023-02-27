@@ -1,5 +1,5 @@
 {
-  "name": "@webf/eslint-plugin-webf",
+  "name": "@openwebf/eslint-plugin-webf",
   "version": "0.0.1",
   "description": "Check if the Web API is available on WebF.",
   "main": "index.js",
