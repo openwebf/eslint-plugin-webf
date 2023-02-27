@@ -1,0 +1,19 @@
+{
+  "name": "@webf/eslint-plugin-webf",
+  "version": "0.0.1",
+  "description": "Check if the Web API is available on WebF.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/openwebf/eslint-plugin-webf.git"
+  },
+  "author": "openWebF authors",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/openwebf/eslint-plugin-webf/issues"
+  },
+  "homepage": "https://github.com/openwebf/eslint-plugin-webf#readme"
+}
